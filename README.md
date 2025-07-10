@@ -2,14 +2,6 @@
 
 > **A Production-Ready Food Redistribution Platform for India**
 
-[![Next.js](https://img.shields.io/badge/Next.js-13.5.1-black)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-18.2.0-blue)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.2.2-blue)](https://www.typescriptlang.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-20.11.0-green)](https://nodejs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-7.0-green)](https://www.mongodb.com/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.3.0-blue)](https://tailwindcss.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## 🚀 Overview
 
 ZeroWasteLink 2.0 is a comprehensive, production-ready food redistribution platform designed specifically for India. It connects food donors (restaurants, hotels, events) with NGOs and volunteers to reduce food waste and feed those in need.
@@ -28,40 +20,17 @@ ZeroWasteLink 2.0 is a comprehensive, production-ready food redistribution platf
 ## 📱 Screenshots
 
 ### 🏠 Landing Page
-![Landing Page](docs/screenshots/landing-page.png)
-*Beautiful hero section with call-to-action and platform overview*
+<img width="1920" height="1080" alt="Screenshot (135)" src="https://github.com/user-attachments/assets/b1fcd2f7-31ca-4377-a90c-10469f60ba73" />
 
-### 🔐 Authentication
-![Login Page](docs/screenshots/login-page.png)
-*Clean, role-based authentication with Indian localization*
+<img width="1899" height="865" alt="Screenshot 2025-07-10 192405" src="https://github.com/user-attachments/assets/3a29a565-7a9b-42a6-bcbc-6f1fe7985b8a" />
 
-### 👨‍💼 Admin Dashboard
-![Admin Dashboard](docs/screenshots/admin-dashboard.png)
-*Comprehensive admin panel with analytics, user management, and system monitoring*
+<img width="1920" height="1080" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/0c6ec035-12ec-445d-9a7e-a36432a90880" />
 
-### 🏢 Donor Dashboard
-![Donor Dashboard](docs/screenshots/donor-dashboard.png)
-*Intuitive donor interface for food donation management*
+<img width="1920" height="1080" alt="Screenshot (141)" src="https://github.com/user-attachments/assets/4c3ea183-f605-443c-af9f-dc735d488984" />
 
-### 🏛️ NGO Dashboard
-![NGO Dashboard](docs/screenshots/ngo-dashboard.png)
-*NGO-specific dashboard for receiving and managing food donations*
+<img width="1920" height="1080" alt="Screenshot (133)" src="https://github.com/user-attachments/assets/0d4adc39-fa49-42ec-a19b-dba2709ff8b5" />
 
-### 🚚 Volunteer Dashboard
-![Volunteer Dashboard](docs/screenshots/volunteer-dashboard.png)
-*Volunteer interface with pickup scheduling and route optimization*
 
-### 🗺️ Live Tracking
-![Map Interface](docs/screenshots/map-interface.png)
-*Real-time map tracking with Leaflet.js and OpenStreetMap*
-
-### 📝 Donation Form
-![Donation Form](docs/screenshots/donation-form.png)
-*Multi-step donation form with image upload and impact preview*
-
-### 💬 Chat Interface
-![Chat Interface](docs/screenshots/chat-interface.png)
-*Real-time communication system for coordination*
 
 ## 🛠️ Technology Stack
 
