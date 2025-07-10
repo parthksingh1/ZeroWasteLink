@@ -1,0 +1,99 @@
+<!-- Donor Dashboard Screenshot Placeholder -->
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="70" fill="#10b981"/>
+  <text x="40" y="35" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">🌱 ZeroWasteLink - Donor Portal</text>
+  <text x="580" y="35" font-family="Arial, sans-serif" font-size="14" fill="#dcfce7">Welcome, Rajesh Sharma</text>
+  <text x="720" y="35" font-family="Arial, sans-serif" font-size="14" fill="#dcfce7">Logout</text>
+  
+  <!-- Navigation -->
+  <rect x="0" y="70" width="800" height="50" fill="white" stroke="#e2e8f0"/>
+  <text x="40" y="100" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#10b981">📊 Dashboard</text>
+  <text x="140" y="100" font-family="Arial, sans-serif" font-size="14" fill="#64748b">📦 My Donations</text>
+  <text x="260" y="100" font-family="Arial, sans-serif" font-size="14" fill="#64748b">➕ New Donation</text>
+  <text x="380" y="100" font-family="Arial, sans-serif" font-size="14" fill="#64748b">📈 Impact Report</text>
+  <text x="500" y="100" font-family="Arial, sans-serif" font-size="14" fill="#64748b">💬 Messages</text>
+  <text x="600" y="100" font-family="Arial, sans-serif" font-size="14" fill="#64748b">⚙️ Settings</text>
+  
+  <!-- Main Content -->
+  <rect x="40" y="140" width="720" height="50" fill="white" stroke="#e2e8f0" rx="5"/>
+  <text x="60" y="170" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e293b">Welcome back! Ready to make a difference today?</text>
+  
+  <!-- Quick Actions -->
+  <rect x="600" y="140" width="140" height="50" fill="#10b981" rx="5"/>
+  <text x="670" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">➕ New Donation</text>
+  
+  <!-- Stats Cards -->
+  <rect x="40" y="210" width="150" height="100" fill="white" stroke="#e2e8f0" rx="5"/>
+  <text x="115" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#10b981">25</text>
+  <text x="115" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Total Donations</text>
+  <text x="115" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#10b981">↗ +3 this week</text>
+  <text x="115" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#10b981">🏢</text>
+  
+  <rect x="210" y="210" width="150" height="100" fill="white" stroke="#e2e8f0" rx="5"/>
+  <text x="285" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#f59e0b">580 kg</text>
+  <text x="285" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Food Donated</text>
+  <text x="285" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f59e0b">↗ +45 kg this month</text>
+  <text x="285" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#f59e0b">🍽️</text>
+  
+  <rect x="380" y="210" width="150" height="100" fill="white" stroke="#e2e8f0" rx="5"/>
+  <text x="455" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#3b82f6">1,160</text>
+  <text x="455" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">People Served</text>
+  <text x="455" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#3b82f6">↗ +90 this month</text>
+  <text x="455" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#3b82f6">👥</text>
+  
+  <rect x="550" y="210" width="150" height="100" fill="white" stroke="#e2e8f0" rx="5"/>
+  <text x="625" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#8b5cf6">4.8</text>
+  <text x="625" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Impact Score</text>
+  <text x="625" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#8b5cf6">⭐⭐⭐⭐⭐</text>
+  <text x="625" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#8b5cf6">🏆</text>
+  
+  <!-- Recent Donations -->
+  <rect x="40" y="330" width="450" height="240" fill="white" stroke="#e2e8f0" rx="5"/>
+  <text x="265" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">📦 Recent Donations</text>
+  
+  <!-- Donation Items -->
+  <rect x="60" y="375" width="410" height="40" fill="#f8fafc" stroke="#e2e8f0" rx="3"/>
+  <text x="80" y="395" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">Cooked Food - 25 kg</text>
+  <text x="80" y="410" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Taj Hotel Mumbai • 2 hours ago</text>
+  <text x="400" y="395" font-family="Arial, sans-serif" font-size="10" fill="#10b981">✅ Picked up</text>
+  
+  <rect x="60" y="425" width="410" height="40" fill="#f8fafc" stroke="#e2e8f0" rx="3"/>
+  <text x="80" y="445" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">Fresh Vegetables - 15 kg</text>
+  <text x="80" y="460" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Restaurant Kitchen • 1 day ago</text>
+  <text x="400" y="445" font-family="Arial, sans-serif" font-size="10" fill="#3b82f6">🚚 In Transit</text>
+  
+  <rect x="60" y="475" width="410" height="40" fill="#f8fafc" stroke="#e2e8f0" rx="3"/>
+  <text x="80" y="495" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">Packaged Food - 30 kg</text>
+  <text x="80" y="510" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Catering Event • 2 days ago</text>
+  <text x="400" y="495" font-family="Arial, sans-serif" font-size="10" fill="#10b981">✅ Delivered</text>
+  
+  <rect x="60" y="525" width="410" height="40" fill="#f8fafc" stroke="#e2e8f0" rx="3"/>
+  <text x="80" y="545" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">Bread & Bakery - 12 kg</text>
+  <text x="80" y="560" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Bakery Store • 3 days ago</text>
+  <text x="400" y="545" font-family="Arial, sans-serif" font-size="10" fill="#10b981">✅ Delivered</text>
+  
+  <!-- Impact Visualization -->
+  <rect x="510" y="330" width="250" height="240" fill="white" stroke="#e2e8f0" rx="5"/>
+  <text x="635" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">🌱 Your Impact</text>
+  
+  <!-- Impact Stats -->
+  <rect x="530" y="375" width="210" height="30" fill="#dcfce7" rx="3"/>
+  <text x="540" y="395" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#166534">🌍 CO2 Saved: 870 kg</text>
+  
+  <rect x="530" y="415" width="210" height="30" fill="#dbeafe" rx="3"/>
+  <text x="540" y="435" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e40af">💧 Water Saved: 17,400 L</text>
+  
+  <rect x="530" y="455" width="210" height="30" fill="#fef3c7" rx="3"/>
+  <text x="540" y="475" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e">⚡ Energy Saved: 2,320 kWh</text>
+  
+  <rect x="530" y="495" width="210" height="30" fill="#f3e8ff" rx="3"/>
+  <text x="540" y="515" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6b21a8">🏆 Impact Rating: Excellent</text>
+  
+  <!-- Progress Bar -->
+  <rect x="530" y="535" width="210" height="10" fill="#e5e7eb" rx="5"/>
+  <rect x="530" y="535" width="168" height="10" fill="#10b981" rx="5"/>
+  <text x="635" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">80% towards next milestone</text>
+</svg>

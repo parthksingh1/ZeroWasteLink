@@ -1,0 +1,42 @@
+<!-- Landing Page Screenshot Placeholder -->
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="80" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="40" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">🌱 ZeroWasteLink</text>
+  <text x="640" y="35" font-family="Arial, sans-serif" font-size="14" fill="#64748b">Login | Register</text>
+  
+  <!-- Hero Section -->
+  <rect x="50" y="120" width="700" height="200" fill="#10b981" rx="10"/>
+  <text x="400" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="white">Reduce Food Waste</text>
+  <text x="400" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="white">Connect donors with NGOs and volunteers</text>
+  <rect x="350" y="250" width="100" height="40" fill="white" rx="5"/>
+  <text x="400" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#10b981">Get Started</text>
+  
+  <!-- Features Section -->
+  <text x="400" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">Key Features</text>
+  
+  <!-- Feature Cards -->
+  <rect x="80" y="400" width="150" height="120" fill="white" stroke="#e2e8f0" rx="5"/>
+  <text x="155" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#10b981">🔐</text>
+  <text x="155" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e293b">Multi-Role Auth</text>
+  <text x="155" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Admin, Donor, NGO</text>
+  <text x="155" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Volunteer dashboards</text>
+  
+  <rect x="280" y="400" width="150" height="120" fill="white" stroke="#e2e8f0" rx="5"/>
+  <text x="355" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#10b981">🗺️</text>
+  <text x="355" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e293b">Real-Time Maps</text>
+  <text x="355" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Leaflet.js tracking</text>
+  <text x="355" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">No API keys needed</text>
+  
+  <rect x="480" y="400" width="150" height="120" fill="white" stroke="#e2e8f0" rx="5"/>
+  <text x="555" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#10b981">🤖</text>
+  <text x="555" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e293b">AI Analytics</text>
+  <text x="555" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Spoilage detection</text>
+  <text x="555" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Impact analysis</text>
+  
+  <!-- Footer -->
+  <rect x="0" y="550" width="800" height="50" fill="#1e293b"/>
+  <text x="400" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">Made with ❤️ for a better world</text>
+</svg>

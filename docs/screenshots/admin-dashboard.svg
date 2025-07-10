@@ -1,0 +1,88 @@
+<!-- Admin Dashboard Screenshot Placeholder -->
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="70" fill="#1e293b"/>
+  <text x="40" y="35" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">🌱 ZeroWasteLink Admin</text>
+  <text x="600" y="35" font-family="Arial, sans-serif" font-size="14" fill="#94a3b8">Welcome, Admin User</text>
+  <text x="720" y="35" font-family="Arial, sans-serif" font-size="14" fill="#94a3b8">Logout</text>
+  
+  <!-- Sidebar -->
+  <rect x="0" y="70" width="200" height="530" fill="#334155"/>
+  <text x="20" y="100" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">📊 Overview</text>
+  <text x="20" y="130" font-family="Arial, sans-serif" font-size="14" fill="#94a3b8">👥 Users</text>
+  <text x="20" y="160" font-family="Arial, sans-serif" font-size="14" fill="#94a3b8">📦 Donations</text>
+  <text x="20" y="190" font-family="Arial, sans-serif" font-size="14" fill="#94a3b8">📈 Analytics</text>
+  <text x="20" y="220" font-family="Arial, sans-serif" font-size="14" fill="#94a3b8">🔴 Live Monitor</text>
+  <text x="20" y="250" font-family="Arial, sans-serif" font-size="14" fill="#94a3b8">⚙️ Settings</text>
+  
+  <!-- Main Content Area -->
+  <rect x="220" y="90" width="560" height="50" fill="white" stroke="#e2e8f0"/>
+  <text x="240" y="120" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e293b">Platform Overview</text>
+  
+  <!-- Stats Cards -->
+  <rect x="240" y="160" width="120" height="80" fill="white" stroke="#e2e8f0" rx="5"/>
+  <text x="300" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#10b981">1,250</text>
+  <text x="300" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Total Donations</text>
+  <text x="300" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#10b981">↗ +12%</text>
+  
+  <rect x="380" y="160" width="120" height="80" fill="white" stroke="#e2e8f0" rx="5"/>
+  <text x="440" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#3b82f6">450</text>
+  <text x="440" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Active Users</text>
+  <text x="440" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#3b82f6">↗ +8%</text>
+  
+  <rect x="520" y="160" width="120" height="80" fill="white" stroke="#e2e8f0" rx="5"/>
+  <text x="580" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#f59e0b">15,000</text>
+  <text x="580" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Food Saved (kg)</text>
+  <text x="580" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f59e0b">↗ +25%</text>
+  
+  <rect x="660" y="160" width="120" height="80" fill="white" stroke="#e2e8f0" rx="5"/>
+  <text x="720" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#8b5cf6">30,000</text>
+  <text x="720" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">People Served</text>
+  <text x="720" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#8b5cf6">↗ +18%</text>
+  
+  <!-- Charts Section -->
+  <rect x="240" y="260" width="260" height="180" fill="white" stroke="#e2e8f0" rx="5"/>
+  <text x="370" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e293b">📊 Donation Trends</text>
+  <!-- Simple line chart representation -->
+  <polyline points="260,400 300,370 340,350 380,320 420,340 460,310 480,300" stroke="#10b981" stroke-width="2" fill="none"/>
+  <circle cx="260" cy="400" r="3" fill="#10b981"/>
+  <circle cx="300" cy="370" r="3" fill="#10b981"/>
+  <circle cx="340" cy="350" r="3" fill="#10b981"/>
+  <circle cx="380" cy="320" r="3" fill="#10b981"/>
+  <circle cx="420" cy="340" r="3" fill="#10b981"/>
+  <circle cx="460" cy="310" r="3" fill="#10b981"/>
+  <circle cx="480" cy="300" r="3" fill="#10b981"/>
+  
+  <!-- Recent Activity -->
+  <rect x="520" y="260" width="260" height="180" fill="white" stroke="#e2e8f0" rx="5"/>
+  <text x="650" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e293b">📋 Recent Activity</text>
+  <text x="540" y="310" font-family="Arial, sans-serif" font-size="11" fill="#64748b">• New donation from Taj Hotel</text>
+  <text x="540" y="330" font-family="Arial, sans-serif" font-size="11" fill="#64748b">• Volunteer pickup completed</text>
+  <text x="540" y="350" font-family="Arial, sans-serif" font-size="11" fill="#64748b">• NGO registered: Food Bank</text>
+  <text x="540" y="370" font-family="Arial, sans-serif" font-size="11" fill="#64748b">• Impact report generated</text>
+  <text x="540" y="390" font-family="Arial, sans-serif" font-size="11" fill="#64748b">• System backup completed</text>
+  
+  <!-- User Management Table -->
+  <rect x="240" y="460" width="540" height="120" fill="white" stroke="#e2e8f0" rx="5"/>
+  <text x="510" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e293b">👥 User Management</text>
+  
+  <!-- Table Header -->
+  <rect x="260" y="495" width="500" height="25" fill="#f8fafc"/>
+  <text x="270" y="510" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#64748b">Name</text>
+  <text x="370" y="510" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#64748b">Role</text>
+  <text x="450" y="510" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#64748b">Status</text>
+  <text x="540" y="510" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#64748b">Actions</text>
+  
+  <!-- Table Rows -->
+  <text x="270" y="535" font-family="Arial, sans-serif" font-size="10" fill="#1e293b">Rajesh Sharma</text>
+  <text x="370" y="535" font-family="Arial, sans-serif" font-size="10" fill="#1e293b">Donor</text>
+  <text x="450" y="535" font-family="Arial, sans-serif" font-size="10" fill="#10b981">Active</text>
+  <text x="540" y="535" font-family="Arial, sans-serif" font-size="10" fill="#3b82f6">Edit • Delete</text>
+  
+  <text x="270" y="555" font-family="Arial, sans-serif" font-size="10" fill="#1e293b">Mumbai Food Bank</text>
+  <text x="370" y="555" font-family="Arial, sans-serif" font-size="10" fill="#1e293b">NGO</text>
+  <text x="450" y="555" font-family="Arial, sans-serif" font-size="10" fill="#10b981">Active</text>
+  <text x="540" y="555" font-family="Arial, sans-serif" font-size="10" fill="#3b82f6">Edit • Delete</text>
+</svg>

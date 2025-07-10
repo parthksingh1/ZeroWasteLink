@@ -1,0 +1,49 @@
+<!-- Login Page Screenshot Placeholder -->
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#f1f5f9"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="80" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="40" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">🌱 ZeroWasteLink</text>
+  <text x="640" y="35" font-family="Arial, sans-serif" font-size="14" fill="#64748b">Need help? Contact us</text>
+  
+  <!-- Login Form Container -->
+  <rect x="275" y="150" width="250" height="300" fill="white" stroke="#e2e8f0" rx="10"/>
+  
+  <!-- Login Form -->
+  <text x="400" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1e293b">Login to Your Account</text>
+  <text x="400" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Choose your role and sign in</text>
+  
+  <!-- Role Selection -->
+  <rect x="300" y="230" width="200" height="30" fill="#f8fafc" stroke="#e2e8f0" rx="5"/>
+  <text x="315" y="250" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Select Role: Donor ▼</text>
+  
+  <!-- Email Input -->
+  <rect x="300" y="270" width="200" height="30" fill="white" stroke="#e2e8f0" rx="5"/>
+  <text x="315" y="290" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Email Address</text>
+  
+  <!-- Password Input -->
+  <rect x="300" y="310" width="200" height="30" fill="white" stroke="#e2e8f0" rx="5"/>
+  <text x="315" y="330" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Password</text>
+  
+  <!-- Login Button -->
+  <rect x="300" y="360" width="200" height="35" fill="#10b981" rx="5"/>
+  <text x="400" y="382" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Sign In</text>
+  
+  <!-- Links -->
+  <text x="400" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Don't have an account? </text>
+  <text x="400" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#10b981">Register here</text>
+  
+  <!-- Indian Localization Elements -->
+  <rect x="50" y="500" width="150" height="80" fill="white" stroke="#e2e8f0" rx="5"/>
+  <text x="125" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">🇮🇳 India Ready</text>
+  <text x="125" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">• Phone: +91 format</text>
+  <text x="125" y="555" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">• Aadhaar integration</text>
+  <text x="125" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">• Indian addresses</text>
+  
+  <!-- Admin Login Link -->
+  <rect x="600" y="500" width="150" height="80" fill="white" stroke="#e2e8f0" rx="5"/>
+  <text x="675" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">👨‍💼 Admin Access</text>
+  <text x="675" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Special admin portal</text>
+  <text x="675" y="555" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#10b981">Click here →</text>
+</svg>
